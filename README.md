@@ -8,7 +8,7 @@ Meu nome é Nicolas Malta
 
 
 
-### Você pode entrar em contato comigo :mailbox:
+### Você pode entrar em contato comigo :mailbox: 📧
 
 nicolasmalta200@gmail.com
 @nick.kill_
